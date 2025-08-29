@@ -1,8 +1,6 @@
 package com01.handy.datastructures;
 
 
-import com01.handy.datastructures.MyPow;
-
 public class Test {
     public static void main(String[] args) {
         // Create
